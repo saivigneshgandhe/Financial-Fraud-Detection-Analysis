@@ -48,7 +48,7 @@ Required R packages:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/financial-fraud-detection.git
+git clone https://github.com/saivigneshgandhe/financial-fraud-detection.git
 cd financial-fraud-detection
 ```
 
