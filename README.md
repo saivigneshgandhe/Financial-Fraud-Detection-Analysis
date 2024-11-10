@@ -64,7 +64,7 @@ install.packages(c("benford.analysis", "BenfordTests", "readxl", "dplyr",
 financial-fraud-detection/
 ├── data/
 │   ├── Vendor_Payments.xlsx
-│   └── creditcard.csv
+│   └── creditcard.csv (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download)
 ├── scripts/
 │   ├── benford_analysis.R
 │   └── credit_card_fraud.R
